@@ -21,7 +21,7 @@ Phonon measurements are a powerful check on the accuracy of theoretical calculat
 
 
 ### Multizone Phonon Refinement
-With large area detectors it's possible to collect scans from hundreds of Brillouin Zones in a single experiment.  Except along high-symmetry directions, phonon measurements can be plagued by overlapping signals.  But by refining multiple zones simultaneously, we can measure those enegries quite precisely, as I [described here] (./Parshall_2014_PhysRevB.89.064310_phonon_spectrum_of_Sr122_determined_using_multizone_phonon_refinement.pdf)
+With large area detectors it's possible to collect scans from hundreds of Brillouin Zones in a single experiment.  Except along high-symmetry directions, phonon measurements can be plagued by overlapping signals.  But by refining multiple zones simultaneously, we can measure those enegries quite precisely, as I [described here] (./publications/Parshall_2014_PhysRevB.89.064310_phonon_spectrum_of_Sr122_determined_using_multizone_phonon_refinement.pdf)
 
 
 
